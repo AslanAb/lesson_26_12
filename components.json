@@ -1,0 +1,1 @@
+{"id":1,"name":"aslan","params":{"text":"hello world"},"hbs":"<h1> {{text}}</h1>","styles":"h1{color:red}"}
